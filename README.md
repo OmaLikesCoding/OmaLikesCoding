@@ -1,11 +1,18 @@
 ![CodingGemSupreme](https://user-images.githubusercontent.com/77770242/187123138-30e2ab97-8c87-4393-9c4c-ab6fa5950136.gif)
-- 👋 Hi, I’m Oma A.K.A @CodingGemSupreme I am a software engineer that has experience in e-commerce, cosmetics, and leadership. 
-- 👀 I’m interested in Movies, Anime, Beauty, Art, & Traveling
-- 🌱 I’m currently learning Javascript, Ajax, & JQuery
-- 💞️ I’m looking to collaborate on all of the things 
-- 📫 You can reach me @ oma.likes.coding@gmail.com
+Hi, I'm Oma. I am a software engineer with experience in coaching, content creation, problem solving, and marketing. I am also a student at the esteemed educational institution General Assembly. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. Some technologies I am currently learning/using are node.js, JavaScript, Mongo DB, EJS, RESTful Routing, JSON, HTML 5, and CSS 3.
+![Currently Learning (5)](https://user-images.githubusercontent.com/77770242/189545126-4f708506-ff5e-481b-a2d8-bfb63fe8972b.gif)
 
-<!---
-CodingGemSupreme/CodingGemSupreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Way way back in time I started my coding in the days of old... The same way that a lot of millennials did... MySpace (Insert giggle here). As a teen I thought it was so cool to add effects, music, and photos on a platform that truly allowed you to show the world your personality and personify it through technology. This shifted my childhood passion from fine art to digital and graphic design. I utilized this passion and allowed it to help me build a strong digital presence for my brand The Hair Chest HRC. 
+
+My work experience includes retail sales, management, recruiting, branding, e-mail/social media/grassroots marketing, and banking. After working in these fields I was able to identify an opportunity for end users to get better usage of the digital products we've come to enjoy in this day and age. I also enjoy updating and debugging too. At the core of who I am there is a problem solver that loves to bring ease of use and joy to stakeholders and the end users who will drive the growth and usage of the many things we create as developers/engineers. 
+
+![Currently Learning (2)](https://user-images.githubusercontent.com/77770242/189543990-052e0a26-9053-42db-b59d-4e1d5686871a.gif)
+
+Im super excited to share that incoming weeks I will be learning more techologigies such as: React, Django, Jquery, Bootstrap, Semantic UI, Bulma, and PostgreSQL.
+
+You can reach me at oma.likes.coding@gmail.com Can't wait to hear from you!
+
+![Currently Learning (3)](https://user-images.githubusercontent.com/77770242/189544805-5518b765-3023-407a-bca3-15db0641e8f3.gif)
+
