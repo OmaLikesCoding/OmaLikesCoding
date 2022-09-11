@@ -1,6 +1,7 @@
 # Hi, I'm Oma!
 ### A Human Centric Problem Solver & Empatheic Software Engineer
-![CodingGemSupreme](https://user-images.githubusercontent.com/77770242/187123138-30e2ab97-8c87-4393-9c4c-ab6fa5950136.gif)
+![CodingGemSupreme (1)](https://user-images.githubusercontent.com/77770242/189546041-a53f71a0-c968-41a5-94f4-e68f0e6f1c52.gif)
+
 Hi, I'm Oma. I am a software engineer with experience in coaching, content creation, problem solving, and marketing. I am also a student at the esteemed educational institution General Assembly. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. Some technologies I am currently learning/using are node.js, JavaScript, Mongo DB, EJS, RESTful Routing, JSON, HTML 5, and CSS 3.
 ![Currently Learning (5)](https://user-images.githubusercontent.com/77770242/189545126-4f708506-ff5e-481b-a2d8-bfb63fe8972b.gif)
 
