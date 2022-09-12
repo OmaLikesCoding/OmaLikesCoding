@@ -13,7 +13,7 @@ My work experience includes retail sales, management, recruiting, branding, e-ma
 
 ![Currently Learning (2)](https://user-images.githubusercontent.com/77770242/189543990-052e0a26-9053-42db-b59d-4e1d5686871a.gif)
 
-Im super excited to share that incoming weeks I will be learning more techologigies such as: React, Django, Jquery, Bootstrap, Semantic UI, Bulma, and PostgreSQL.
+I'm super excited to share that incoming weeks I will be learning more technologies such as: React, Django, Jquery, Bootstrap, Semantic UI, Bulma, and PostgreSQL.
 
 You can reach me at oma.likes.coding@gmail.com Can't wait to hear from you!
 
