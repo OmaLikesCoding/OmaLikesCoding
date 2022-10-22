@@ -17,3 +17,4 @@ You can reach me at oma.likes.coding@gmail.com Can't wait to hear from you!
 
 ![Currently Learning (3)](https://user-images.githubusercontent.com/77770242/189544805-5518b765-3023-407a-bca3-15db0641e8f3.gif)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodingGemSupreme&theme=midnight-purple)](https://git.io/streak-stats)
