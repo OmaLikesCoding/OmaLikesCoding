@@ -1,13 +1,13 @@
 # Hi, I'm Oma!
 ### A Human Centric Problem Solver & Empatheic Software Engineer
-![Copy of ImCheezey1 (8 × 4 in) (2)](https://user-images.githubusercontent.com/77770242/223837673-e5f39f1e-a41b-4be8-9726-b579cec7ac8f.png)
-
+![Copy of ImCheezey1 (8 × 4 in)](https://user-images.githubusercontent.com/77770242/223837030-772f7e8c-47e1-467d-a338-7585c3db8e25.png)
 
 
 Hi, I'm Oma. I am a software engineer with experience in entrepreneurship, coaching, content creation, problem solving, and marketing. I am also a graduate of the esteemed educational institution General Assembly. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. Some technologies I am currently using are node.js, JavaScript, Mongo DB, EJS, RESTful Routing, JSON, HTML 5, and CSS 3, React, Django, Jquery, Bootstrap, Semantic UI, Bulma, and PostgreSQL.
 
 
-![Copy of ImCheezey1 (8 × 4 in) (2)](https://user-images.githubusercontent.com/77770242/223831783-3f588a5e-c349-4316-9eff-feb6334ed62e.gif)
+![Copy of ImCheezey1 (8 × 4 in) (3)](https://user-images.githubusercontent.com/77770242/223838740-19db42c8-bdcb-44e8-b434-af50eb778e6f.png)
+
 
 
 
