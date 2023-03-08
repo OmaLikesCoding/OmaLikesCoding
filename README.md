@@ -6,8 +6,7 @@
 Hi, I'm Oma. I am a software engineer with experience in entrepreneurship, coaching, content creation, problem solving, and marketing. I am also a graduate of the esteemed educational institution General Assembly. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. Some technologies I am currently using are node.js, JavaScript, Mongo DB, EJS, RESTful Routing, JSON, HTML 5, and CSS 3, React, Django, Jquery, Bootstrap, Semantic UI, Bulma, and PostgreSQL.
 
 
-![Copy of ImCheezey1 (8 × 4 in) (3)](https://user-images.githubusercontent.com/77770242/223838740-19db42c8-bdcb-44e8-b434-af50eb778e6f.png)
-
+![Copy of ImCheezey1 (8 × 4 in) (2)](https://user-images.githubusercontent.com/77770242/223831783-3f588a5e-c349-4316-9eff-feb6334ed62e.gif)
 
 
 
@@ -16,10 +15,11 @@ Way way back in time I started my coding in the days of old... The same way that
 
 My work experience includes high volume sales, customer service, management, recruiting, branding, e-mail/social media/grassroots marketing, and banking. After working in these fields I was able to identify an opportunity for end users to get better usage of the digital products we've come to enjoy in this day and age. I also enjoy updating and debugging too. At the core of who I am there is a problem solver that loves to bring ease of use and joy to stakeholders and the end users who will drive the growth and usage of the many things we create as developers/engineers. 
 
-![Currently Learning (2)](https://user-images.githubusercontent.com/77770242/189543990-052e0a26-9053-42db-b59d-4e1d5686871a.gif) 
+
 
 You can reach me at oma.likes.coding@gmail.com Can't wait to hear from you!
 
-![Currently Learning (3)](https://user-images.githubusercontent.com/77770242/189544805-5518b765-3023-407a-bca3-15db0641e8f3.gif)
+
+![Copy of ImCheezey1 (8 × 4 in) (4)](https://user-images.githubusercontent.com/77770242/223839869-8c2cc33b-cb41-4539-b1e2-5b01999907ea.png)
 
 
