@@ -9,7 +9,8 @@ Hi, I'm Oma. I am a software engineer with experience in entrepreneurship, coach
 
 
 
-![Copy of ImCheezey1 (8 × 4 in) (3)](https://user-images.githubusercontent.com/77770242/223843016-3102d068-68aa-41bb-8a66-7f9a96ba1b41.png)
+
+![Copy of ImCheezey1 (8 × 4 in) (7)](https://user-images.githubusercontent.com/77770242/223843660-ddfe213c-e7e2-44da-850e-350576272951.png)
 
 
 
