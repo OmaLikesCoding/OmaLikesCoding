@@ -23,5 +23,5 @@ You can reach me at oma.likes.coding@gmail.com Can't wait to hear from you!
 
 
 ![Copy of ImCheezey1 (8 × 4 in) (4)](https://user-images.githubusercontent.com/77770242/223839869-8c2cc33b-cb41-4539-b1e2-5b01999907ea.png)
-
+<img src="https://komarev.com/ghpvc/?username=OmaLikesCoding&color=brightgreen" alt="view_count" />
 
