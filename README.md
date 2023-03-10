@@ -4,8 +4,7 @@
 
 
 
-
-Hi, I'm Oma. I am a software engineer with experience in entrepreneurship, coaching, content creation, problem solving, and marketing. I am also a graduate of the esteemed educational institution General Assembly. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two.
+data analytics, problem solving, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
 
 
 
