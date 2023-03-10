@@ -3,8 +3,7 @@
 ![Copy of ImCheezey1 (8 × 4 in) (6)](https://user-images.githubusercontent.com/77770242/223842907-19a5bb4e-1a2c-48db-96b5-56926307811d.png)
 
 
-
-data analytics, problem solving, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
+Hi, I'm Oma. I am a software engineer with experience in entrepreneurship, coaching, data analytics, problem solving, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
 
 
 
