@@ -1,9 +1,9 @@
 # Hi, I'm Oma!
-### A Human Centric Problem Solver & Data Driven Software Engineer
+### Problem Solver | Data & Software Engineer
 ![Copy of ImCheezey1 (8 × 4 in) (6)](https://user-images.githubusercontent.com/77770242/223842907-19a5bb4e-1a2c-48db-96b5-56926307811d.png)
 
 
-Hi, I'm Oma. I am a software & dats engineer with experience in entrepreneurship, banking, data analytics, retail, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
+Hi, I'm Oma. I am a software & data engineer with experience in entrepreneurship, banking, data analytics, retail, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
 
 
 
