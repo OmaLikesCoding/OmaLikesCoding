@@ -13,9 +13,11 @@ Hi, I'm Oma. I am a software & data engineer with experience in entrepreneurship
 
 
 
-Way way back in time I started my coding in the days of old... The same way that a lot of millennials did... MySpace (Insert giggle here). As a teen I thought it was so cool to add effects, music, and photos on a platform that truly allowed you to show the world your personality and personify it through technology. This shifted my childhood passion from fine art to digital and graphic design. I utilized this passion and allowed it to help me build a strong digital presence for my brand The Hair Chest HRC. 
+Throughout my journey, I delved into coding during the MySpace era, a familiar path for many millennials (Insert giggle here). The platform's creative features sparked my fascination with digital and graphic design, shifting my childhood passion from fine art. Leveraging this passion, I built a strong digital presence for my brand, The Hair Chest HRC.
 
-My work experience includes high volume sales, customer service, management, recruiting, branding, e-mail/social media/grassroots marketing, and banking. After working in these fields I was able to identify an opportunity for end users to get better usage of the digital products we've come to enjoy in this day and age. I also enjoy updating and debugging too. At the core of who I am there is a problem solver that loves to bring ease of use and joy to stakeholders and the end users who will drive the growth and usage of the many things we create as developers/engineers. 
+My diverse work experience encompasses high-volume sales, customer service, management, recruiting, branding, and various marketing strategies, including e-mail, social media, and grassroots marketing. Through these roles, I recognized an opportunity to enhance the end-user experience and optimize digital products. My penchant for updating and debugging further strengthens my problem-solving abilities.
+
+At the core of my being lies a problem solver who thrives on bringing ease of use and joy to stakeholders and end users alike. I am driven to contribute to the growth and success of our creations as a product manager, enriching the lives of those who interact with our innovative developments as developers and engineers. 
 
 
 
