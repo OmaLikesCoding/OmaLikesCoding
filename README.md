@@ -1,10 +1,9 @@
 # Hi, I'm Oma!
-### Problem Solver | Data & Software Engineer
+### Product Manager | Software Engineer
 ![Copy of ImCheezey1 (8 × 4 in) (6)](https://user-images.githubusercontent.com/77770242/223842907-19a5bb4e-1a2c-48db-96b5-56926307811d.png)
 
 
-Hi, I'm Oma. I am a software & data engineer with experience in entrepreneurship, banking, data analytics, retail, and marketing. As a person I am an outgoing, collaborative, energetic individual who  enjoys a good laugh or two. 
-
+Hello, I'm Oma! I'm a dynamic and versatile product manager and software engineer, bringing a diverse background in entrepreneurship, sales, engineering, product development, data analytics, retail, and marketing. My outgoing and collaborative nature makes me a natural team player, and I thrive in energetic and lively environments. I believe in the power of a good laugh to foster creativity and build strong connections with colleagues and customers alike. Let's create innovative solutions and have some fun along the way!
 
 
 
