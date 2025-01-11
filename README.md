@@ -1,9 +1,9 @@
 # Hi, I'm Oma!
-### Product Manager | Software Engineer
+### Analyst | Software Engineer
 ![Copy of ImCheezey1 (8 × 4 in) (6)](https://user-images.githubusercontent.com/77770242/223842907-19a5bb4e-1a2c-48db-96b5-56926307811d.png)
 
 
-Hello, I'm Oma! I'm a dynamic and versatile product manager and software engineer, bringing a diverse background in entrepreneurship, sales, engineering, product development, data analytics, retail, and marketing. My outgoing and collaborative nature makes me a natural team player, and I thrive in energetic and lively environments. I believe in the power of a good laugh to foster creativity and build strong connections with colleagues and customers alike. Let's create innovative solutions and have some fun along the way!
+Hello, I'm Oma! I'm a dynamic and versitile customer serivce maven and software engineer, bringing a diverse background in entrepreneurship, sales, engineering, product development, data analytics, retail, and marketing. My outgoing and collaborative nature makes me a natural team player, and I thrive in energetic and lively environments. I believe in the power of a good laugh to foster creativity and build strong connections with colleagues and customers alike. Let's create innovative solutions and have some fun along the way!
 
 
 
@@ -16,7 +16,7 @@ Throughout my journey, I delved into coding during the MySpace era, a familiar p
 
 My diverse work experience encompasses high-volume sales, customer service, management, recruiting, branding, and various marketing strategies, including e-mail, social media, and grassroots marketing. Through these roles, I recognized an opportunity to enhance the end-user experience and optimize digital products. My penchant for updating and debugging further strengthens my problem-solving abilities.
 
-At the core of my being lies a problem solver who thrives on bringing ease of use and joy to stakeholders and end users alike. I am driven to contribute to the growth and success of our creations as a product manager, enriching the lives of those who interact with our innovative developments as developers and engineers. 
+At the core of my being lies a problem solver who thrives on bringing ease of use and joy to stakeholders and end users alike. I am driven to contribute to the growth and success of our creations as a analyst, enriching the lives of those who interact with our innovative developments as developers and engineers. 
 
 
 
